@@ -5,7 +5,7 @@ h1{
     font-size: 50px;
 }
 .orange-color{
-    color: orange;
+    color: rgba(255, 166, 0, 0.918);
 }
 section{
     display: flex;
@@ -15,11 +15,11 @@ section{
     padding: 50px;
 }
 .half-width img{
-    width: 50%;
+    width: 100%;
 }
 .link-button{
     text-decoration: none;
-    background-image: -moz-linear-gradient(orange,tomato);
+    background-image: -moz-linear-gradient(rgba(255, 0, 0, 0.89),tomato);
     padding: 10px 40px;
     color: wheat;
     border-radius: 5px;
