@@ -20,7 +20,7 @@ section{
 .link-button{
     text-decoration: none;
     background-image: -moz-linear-gradient(rgba(255, 0, 0, 0.89),tomato);
-    padding: 10px 40px;
-    color: wheat;
-    border-radius: 5px;
+    padding: 40px 80px;
+    color: rgb(40, 219, 9);
+    border-radius: 25px;
 }
