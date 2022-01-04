@@ -3,13 +3,14 @@ body{
     margin: 0;
 }
 h1{
-    font-size: 50px;
+    font-size: 75px;
 }
 .orange-color{
     color: rgba(255, 166, 0, 0.918);
 }
 section{
     display: flex;
+    margin-bottom: 75px;
 }
 .half-width{
     width:50%;
@@ -22,11 +23,17 @@ section{
     text-decoration: none;
     background-image: -moz-linear-gradient(rgba(255, 0, 0, 0.89),tomato);
     padding: 10px 15px;
-    background-color: rgba(10, 0, 0, 0.938);
+    background-color: rgba(230, 215, 6, 0.938);
     color: rgba(240, 243, 240, 0.945);
     border-radius: 15px;
 }
 .top-banner{
     background-image: url(images/top-banner.png);
     background-size:no-repeat;
+}
+.dream-big{
+    background-image:url(images/dream-bg.png) ;
+    background-repeat: no-repeat;
+    background-position: right;
+    
 }
