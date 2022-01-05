@@ -34,6 +34,9 @@ section{
 .dream-big{
     background-image:url(images/dream-bg.png) ;
     background-repeat: no-repeat;
-    background-position: right;
-    
+    background-position: right; 
+}
+.Experience-item{
+ display: flex;
+ margin: 75px;
 }
